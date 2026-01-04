@@ -34,6 +34,7 @@ The project is structured as a research-style lab report, with code, experiments
 ### bfgmss dataset
 
 The dataset used for this project.
+- Dataset is larger than 25mg so it is not uploaded
 
 ---
 
