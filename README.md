@@ -31,6 +31,12 @@ The project is structured as a research-style lab report, with code, experiments
 
 ---
 
+### bfgmss dataset
+
+The dataset used for this project.
+
+---
+
 ### joswiak-project2.ipynb
 The Kaggle notebook containing:
 - Dataset loading and preprocessing  
@@ -39,8 +45,8 @@ The Kaggle notebook containing:
 - Written markdown sections covering:
   - Problem definition  
   - Experimental design  
-  - Parameter tuning decisions  
-  - Initial interpretation of results  
+  - Parameter tuning decisions
+  - Interpretation of results  
 
 This notebook serves as the main project and written report.
 
