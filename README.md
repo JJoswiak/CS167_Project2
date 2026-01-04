@@ -96,7 +96,7 @@ AlexNet (Fine-Tuned):
 - PyTorch  
 - NumPy  
 - Matplotlib  
-- Kaggle
+- Jupyter Notebook (Kaggle environment)
 
 ---
 
