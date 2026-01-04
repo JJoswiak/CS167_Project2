@@ -31,7 +31,7 @@ The project is structured as a research-style lab report, with code, experiments
 
 ---
 
-### `joswiak-project2.ipynb`
+### joswiak-project2.ipynb
 The Kaggle notebook containing:
 - Dataset loading and preprocessing  
 - Model implementations (MLP, CNN, AlexNet)  
@@ -46,7 +46,7 @@ This notebook serves as the main project and written report.
 
 ---
 
-### `JoswiakNotebook5.ipynb`
+### JoswiakNotebook5.ipynb
 A results focused analysis Google Document that expands on the experiments by:
 - Visualizing training and validation performance  
 - Displaying confusion matrices for each model  
